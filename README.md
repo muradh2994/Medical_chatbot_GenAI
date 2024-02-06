@@ -1,6 +1,6 @@
 
 
-# Langchain Medical Bot
+# Medical ChatBot using Langchain
 
 The Medical Chatbot is a powerful tool designed to provide medical information by answering user queries using state-of-the-art language models and vector stores. This README will guide you through the setup and usage of the Langchain Medical Bot.
 
