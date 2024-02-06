@@ -2,7 +2,7 @@
 
 # Langchain Medical Bot
 
-The Langchain Medical Bot is a powerful tool designed to provide medical information by answering user queries using state-of-the-art language models and vector stores. This README will guide you through the setup and usage of the Langchain Medical Bot.
+The Medical Chatbot is a powerful tool designed to provide medical information by answering user queries using state-of-the-art language models and vector stores. This README will guide you through the setup and usage of the Langchain Medical Bot.
 
 ## Table of Contents
 
@@ -32,8 +32,8 @@ Before you can start using the Langchain Medical Bot, make sure you have the fol
 1. Clone this repository to your local machine.
 
     ```bash
-    git clone https://github.com/your-username/langchain-medical-bot.git
-    cd langchain-medical-bot
+    git clone https://github.com/your-username/medical_chatbot_genai.git
+    cd medical_chatbot_genai
     ```
 
 2. Create a Python virtual environment (optional but recommended):
@@ -78,27 +78,3 @@ The Langchain Medical Bot can be used for answering medical-related queries. To 
 4. If sources are found, they will be provided alongside the answer.
 
 5. The bot can be customized to return specific information based on the query and context provided.
-
-## Contributing
-
-Contributions to the Langchain Medical Bot are welcome! If you'd like to contribute to the project, please follow these steps:
-
-1. Fork the repository to your own GitHub account.
-
-2. Create a new branch for your feature or bug fix.
-
-3. Make your changes and ensure that the code passes all tests.
-
-4. Create a pull request to the main repository, explaining your changes and improvements.
-
-5. Your pull request will be reviewed, and if approved, it will be merged into the main codebase.
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-For more information on how to use, configure, and extend the Langchain Medical Bot, please refer to the Langchain documentation or contact the project maintainers.
-
-Happy coding with Langchain Medical Bot! 🚀
